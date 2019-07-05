@@ -109,3 +109,6 @@ venv.bak/
 
 #Intellij IDE stuff
 .idea
+
+TODO.txt
+/watched_directory

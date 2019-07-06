@@ -2,7 +2,7 @@
 
 Watches folder for changes and renemes files that match renaming criteria
 
-# Requirements
+## Requirements
 
 * Python 3
 * watchdog https://github.com/gorakhargosh/watchdog
